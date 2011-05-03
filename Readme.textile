@@ -1,4 +1,4 @@
 h3. Morsey Netduino project
 
 A simple Morse code encoder, using the onboard LED on a Netduino Plus board.
-You can read more about the project in my "blog":http://code.TravelingTechGuy.com/
+You can read more about the project in my "blog":http://code.TrvelingTechGuy.com/2011/05/netduino-project-2-morsey.html
